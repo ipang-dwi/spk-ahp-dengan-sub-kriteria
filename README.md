@@ -1,4 +1,7 @@
 # spk-ahp-dengan-sub-kriteria
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 Aplikasi Sistem Pedukung Keputusan (SPK) Analisa Kredit Modal Kerja Pada Bank Bukopin Surabaya dengan metode Analitycal Hierarchy Process (AHP) berbasis web, menggunakan native PHP5.
 
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :

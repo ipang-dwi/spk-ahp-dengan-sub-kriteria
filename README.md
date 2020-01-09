@@ -7,6 +7,7 @@ Aplikasi Sistem Pedukung Keputusan (SPK) Analisa Kredit Modal Kerja Pada Bank Bu
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
 - Web programming, terutama native PHP5, Jquery dan CSS3
 - Metode AHP untuk Sistem Pendukung Keputusan (SPK) dengan tambahan Sub Kriteria / Decission Support System (DSS)
+- Generate report otomatis dengan TCPDF
 
 Instalasi :
 - Cukup download atau clone file-file di repo ini, dan copy kan pada web direktori kamu.
@@ -29,6 +30,7 @@ Elements :
 - Jquery v1.x
 - Datatables v1.x
 - Flot.js v1.x
+- TCPDF v6.x
 
 Feel free to reach me on :
 - https://www.firstplato.com
